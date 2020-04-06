@@ -1,0 +1,8 @@
+
+Election Results
+----------------------------
+Total Votes: 3521001
+----------------------------
+Winner: Khan with 2218230 votes ( 63.00%)
+Candidates' Results: 
+{'Khan': 2218230, 'Correy': 704199, 'Li': 492939, "O'Tooley": 105629}
